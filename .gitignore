@@ -1,3 +1,4 @@
 *.py
 *.net
-
+!web.py
+[aeiou]*.java
